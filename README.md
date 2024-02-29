@@ -2,7 +2,7 @@
 >
 >
 First of all, it is worth clarifying what a palindrome is.:
->The word palindrome is used for strings of letters that make sense even when read backwards, or are identical to the original.
+>Palindrome is used for strings of letters that make sense even when read backwards, or are identical to the original.
 >
 This code defines a JavaScript function called isPalindrome that checks whether a given input text is a palindrome.
 >
